@@ -1,0 +1,21 @@
+// Colors
+$blue: #006680;
+$grey-light: #b3cccc;
+
+
+// You can use variables inside variables
+$primary: $blue;
+$secondary: $grey;
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700);
+// Font Families
+$helvetica: Helvetica, Arial, sans-serif;
+$roboto: 'Roboto', sans-serif;
+
+
+
+
+
+
